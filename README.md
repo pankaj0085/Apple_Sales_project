@@ -2,7 +2,8 @@
 
 This project involved a comprehensive analysis of Apple product data, utilizing SQL (MySQL) for data storage, cleaning, and sophisticated analysis, and Power BI for creating an interactive dashboard to visualize the key findings.
 
-<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/e3de3219-e950-4cca-8547-912271dd3de3" />
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/43493de2-0881-4b14-b26e-af2c4e96d439" />
+
 
 
 ## Project Overview📊 And Analysis🔍
