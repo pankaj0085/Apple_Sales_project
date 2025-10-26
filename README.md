@@ -63,6 +63,7 @@ Currently, I’m building my foundation in SQL, Power BI, Excel, and Python whil
 - 🎯 Goal: To apply analytical skills to real-world business problems
 # 🤝 Connect With Me
 LINKEDIN = https://www.linkedin.com/in/pankaj-chauhan-00108225a/
+
 E-MAIL = pankajchauhan3470@gmail.com
 
 
