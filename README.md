@@ -64,7 +64,6 @@ Currently, I’m building my foundation in SQL, Power BI, Excel, and Python whil
 # 🤝 Connect With Me
 LINKEDIN = https://www.linkedin.com/in/pankaj-chauhan-00108225a/
 E-MAIL = pankajchauhan3470@gmail.com
-<img width="451" height="197" alt="image" src="https://github.com/user-attachments/assets/d7c8df6c-7459-4c34-af44-b956ee4339f4" />
 
 
 
