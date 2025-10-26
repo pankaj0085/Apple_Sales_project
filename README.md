@@ -54,5 +54,19 @@ The final deliverable, the Power BI dashboard synthesizes these findings into a 
 In conclusion, the project provides a strong analytical foundation for decision-making related to marketing investment, pricing strategy, inventory management, and product quality improvements for Apple's diverse product range.
 
 
+# 🌟 About Me
+## 👋 Hi, I'm PANKAJ CHAUHAN
+I'm an aspiring Data Analyst passionate about exploring data and uncovering meaningful insights.
+Currently, I’m building my foundation in SQL, Power BI, Excel, and Python while working on projects that strengthen my analytical and visualization skills.
+- 🌱 Learning data analysis, visualization, and reporting
+- 🧠 Interested in business intelligence and data storytelling
+- 🎯 Goal: To apply analytical skills to real-world business problems
+# 🤝 Connect With Me
+LINKEDIN = https://www.linkedin.com/in/pankaj-chauhan-00108225a/
+E-MAIL = pankajchauhan3470@gmail.com
+<img width="451" height="197" alt="image" src="https://github.com/user-attachments/assets/d7c8df6c-7459-4c34-af44-b956ee4339f4" />
+
+
+
      
 
